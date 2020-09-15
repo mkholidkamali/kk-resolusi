@@ -8,6 +8,7 @@ Rencana KK
 -css
 >Struktur baik
  >Belajar menyatu dengan HTML
-
 -JavaScript
+ >Laravel
+
 -Java
