@@ -3,6 +3,10 @@ Rencana KK
 -HTML
 >Membuat Template lebih baik
 >Struktur lebih baik
+ >Belajar struktur
+
 -css
+>Struktur baik
+
 -JavaScript
 -Java
