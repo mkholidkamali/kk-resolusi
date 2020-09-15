@@ -3,6 +3,9 @@ Rencana KK
 -HTML
 >Membuat Template lebih baik
 >Struktur lebih baik
--css
+ >Javascript
+ 
 -JavaScript
+ >Laravel
+
 -Java
