@@ -6,9 +6,9 @@ Evaluasi Kk :
 5. Fokus ke web development
 
 Sedang dilakukan :
-1. Magang
+1. Magang : Amnah user
 2. Bootcamp : Golang
-3. Belajar  : Git, PHP
+3. Belajar  : Git, PHP, bootstrap, laravel
 
 Kapan dibuat :
 29 November 2021
