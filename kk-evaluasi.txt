@@ -5,6 +5,11 @@ Evaluasi Kk :
 4. Olahraga
 5. Fokus ke web development
 
+Sedang dilakukan :
+1. Magang
+2. Bootcamp : Golang
+3. Belajar  : Git, PHP
+
 Kapan dibuat :
 29 November 2021
 ~ Saat sedang pts kelas 12
