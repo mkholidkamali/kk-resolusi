@@ -8,7 +8,7 @@ Evaluasi Kk :
 Sedang dilakukan :
 1. Magang : YII
 2. Bootcamp : Golang
-3. Belajar  : Git, PHP, MySQL, python
+3. Belajar  : Git, PHP, MySQL, laravel
 
 Kapan dibuat :
 29 November 2021
